@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Katrein Hanna
 
-I'm a passionate Frontend Developer focused on building beautiful, responsive web applications. I love turning ideas into real, user-friendly experiences using modern web technologies.
+I'm a passionate Full Stack Developer focused on building beautiful, responsive web applications. I love turning ideas into real, user-friendly experiences using modern web technologies.
 
 ---
 
@@ -36,8 +36,8 @@ I'm a passionate Frontend Developer focused on building beautiful, responsive we
 
 ### 📬 Contact Me
 
-- 📧 Email: yourname@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: katrein.hanna.96@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/katrein-hanna](https://www.linkedin.com/in/katrein-hanna)
 
 ---
 
