@@ -46,18 +46,3 @@ I'm a passionate Full Stack Developer focused on building beautiful, responsive 
 > I love solving design challenges and turning ideas into interactive web apps. My goal is to build user-friendly, clean, and performant UIs that make people smile.
 
 ---
-
-## ✅ How to Add This to Your Profile
-
-1. Create a new repo named **exactly** as your username:  
-   `katrein-hanna`
-
-2. Check the box: **"Add a README"**
-
-3. Paste this content into that README
-
-4. Save and commit!
-
----
-
-Would you like help making it more visually fun (with custom badges, icons, or animation)? Or want me to review the links and finalize your featured projects list?
