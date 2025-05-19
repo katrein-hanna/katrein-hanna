@@ -28,7 +28,8 @@ I'm a passionate Full Stack Developer focused on building beautiful, responsive 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katrein-hanna&show_icons=true&theme=radical)
+![Katrein's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrein-hanna&show_icons=true&theme=tokyonight&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrein-hanna&layout=compact&theme=radical)
 
