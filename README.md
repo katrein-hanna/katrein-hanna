@@ -1,18 +1,25 @@
-# 👋 Hi, I'm Katrein Hanna
+### Hi there 👋 I'm Hanna!
 
-I'm a passionate Full Stack Developer focused on building beautiful, responsive web applications. I love turning ideas into real, user-friendly experiences using modern web technologies.
+I'm a passionate **Web Developer** with a strong background in backend and a growing expertise in frontend technologies.
 
----
+#### 🛠️ My Journey
 
-### 💻 Tech Stack
+- 🕰️ **Since 2019**, I began my career as a backend developer working with **Laravel**.
+- 🔄 In **2022**, I transitioned to **Django**, while still maintaining and developing Laravel projects.
+- 🧠 Over the years, I’ve built several Laravel and Django applications — feel free to explore the repos on my profile!
+- ⚛️ In the past year, I’ve shifted my focus to **React.js** and frontend development.
+- 🚀 I'm constantly learning, experimenting, and building projects with modern web technologies.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+#### 🔧 Tech Stack
+
+- **Languages**: PHP, Python, JavaScript
+- **Frameworks**: Laravel, Django, React.js
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, GitHub, VS Code, Postman
+
+#### 📂 Featured Repositories
+
+Check out some of my Laravel, Django, and React.js projects to see what I’ve been working on!
 
 ---
 
@@ -34,7 +41,9 @@ I'm a passionate Full Stack Developer focused on building beautiful, responsive 
 
 ---
 
-### 📬 Contact Me
+#### 📫 Let's Connect
+
+I'm always open to learning, collaboration, and new opportunities. Feel free to reach out or follow my journey!
 
 - 📧 Email: katrein.hanna.96@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/katrein-hanna](https://www.linkedin.com/in/katrein-hanna)
