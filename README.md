@@ -55,8 +55,8 @@ I'm always open to learning, collaboration, and new opportunities. Feel free to 
 
 ### ⚡ Fun Fact
 
-> 💻 I sometimes lose track of time while debugging — it’s like solving a mystery!
-> ☕ I write better code after my second cup of coffee.
-> 🛠️ I once refactored an entire backend app just because I couldn’t sleep until it was “clean enough.”
+  💻 I sometimes lose track of time while debugging — it’s like solving a mystery!
+  ☕ I write better code after my second cup of coffee.
+  🛠️ I once refactored an entire backend app just because I couldn’t sleep until it was “clean enough.”
 
 ---
