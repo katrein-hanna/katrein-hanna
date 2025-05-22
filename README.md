@@ -40,7 +40,7 @@ Check out some of my Laravel, Django, and React.js projects to see what I’ve b
 
 ![Katrein's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrein-hanna&show_icons=true&theme=tokyonight&title_color=8A4FFF&icon_color=8A4FFF&text_color=000000&bg_color=E0D8FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrein-hanna&layout=compact&theme=tokyonight&title_color=8A4FFF&icon_color=8A4FFF&text_color=000000&bg_color=F5F3FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrein-hanna&layout=compact&theme=tokyonight&title_color=8A4FFF&icon_color=8A4FFF&text_color=000000&bg_color=E0D8FF)
 
 ---
 
