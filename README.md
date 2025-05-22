@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hanna!
+### Hi there 👋 I'm Katrein!
 
 I'm a passionate **Web Developer** with a strong background in backend and a growing expertise in frontend technologies.
 
@@ -27,9 +27,12 @@ Check out some of my Laravel, Django, and React.js projects to see what I’ve b
 
 | Project | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
-| **Real Estate App** | Responsive real estate listing site built with React and Tailwind CSS | [View Demo](https://your-netlify-link.netlify.app) | [GitHub](https://github.com/katrein-hanna/real-estate-project) |
-| **Portfolio Website** | My personal developer portfolio showcasing my work and skills | [View Demo](https://your-portfolio-link.netlify.app) | [GitHub](https://github.com/katrein-hanna/portfolio) |
-| **(Add more projects here...)** | | | |
+| **Movies application** | My Galaxy Movies – Space-Themed Movie Management App | [View Demo](https://my-galaxy-movies.netlify.app/) | [GitHub](https://github.com/katrein-hanna/my-galaxy-movies) |
+| **Original Closets** | Custom Closet Solutions Website built with React and Tailwind CSS | [View Demo](https://originalclosets.netlify.app/) | [GitHub](https://github.com/katrein-hanna/original-closets) |
+| **Real Estate App** | Responsive real estate listing site built with React and Tailwind CSS | [View Demo](https://real-estate-home-land.netlify.app/) | [GitHub](https://github.com/katrein-hanna/real-estate-project) |
+| **Portfolio Website** | Personal Developer Website built with React & Tailwind CSS | [View Demo](https://your-portfolio-link.netlify.app) | [GitHub](https://github.com/katrein-hanna/portfolio) |
+| **Fully Responsive Website** | XYZ Agency – Modern Creative Agency Landing Page with React & Tailwind | [View Demo](https://xyz-agency.netlify.app/) | [GitHub](https://github.com/katrein-hanna/responsive-react-landing) |
+|| And more repo in my GitHub ||
 
 ---
 
